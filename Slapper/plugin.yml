@@ -1,0 +1,13 @@
+name: Main
+main: me.ksbdude.slapper
+version: 1.0
+description: >
+             Custom slapper plugin! Written By: ksbdude
+             
+commands:
+  slapper create:
+    description: Creates an arena for slapper!
+  world:
+    description: says something back (again)!
+  slapper help:
+    description: Help for Slapper Plugin!
